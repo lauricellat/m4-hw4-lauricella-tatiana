@@ -1,0 +1,30 @@
+body {max-width: 900px; margin:auto}
+
+h2 {font-size: 22px; text-decoration: underline;}
+h3 {font-size: 18px;}
+
+nav {text-align: left;}
+
+header, h1 {color: blueviolet; font-size: 32px;}
+
+header, footer {text-align: center; background-color:  plum; margin: 35px 0} 
+
+img {display: block;
+margin: auto;
+align-items: center;}
+
+ul {font-style: italic; font-size: larger; color: mediumpurple;}
+
+p {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+section.livestream {
+    text-align: center;
+}
+
+a {color: rgb(187, 0, 255);}
+
+table {border: solid;}
+table th {border: 1px solid; text-align: left; background-color: rgb(221, 127, 255);}
+table td {border: 1px solid}
+
+#image-database > a {background-color: rgb(249, 234, 246);}
