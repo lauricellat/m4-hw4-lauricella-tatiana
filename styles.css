@@ -1,30 +1,71 @@
-body {max-width: 900px; margin:auto}
+body {
+    max-width: 900px;
+    margin:auto
+}
 
-h2 {font-size: 22px; text-decoration: underline;}
-h3 {font-size: 18px;}
+h2 {
+    font-size: 22px; 
+    text-decoration: underline;
+}
 
-nav {text-align: left;}
+h3 {
+    font-size: 18px;
+}
 
-header, h1 {color: blueviolet; font-size: 32px;}
+nav {
+    text-align: left; 
+    font-size: 18px;
+}
 
-header, footer {text-align: center; background-color:  plum; margin: 35px 0} 
+header, h1 {
+    color: blueviolet; 
+    font-size: 32px;
+}
 
-img {display: block;
-margin: auto;
-align-items: center;}
+header, footer {
+    text-align: center; 
+    background-color:  plum; 
+    margin: 35px 0
+} 
 
-ul {font-style: italic; font-size: larger; color: mediumpurple;}
+img {
+    display: block;
+    margin: auto;
+    align-items: center;
+}
 
-p {font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+ul {
+    font-style: italic; 
+    font-size: larger; 
+    color: mediumpurple;
+}
+
+p {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
 section.livestream {
     text-align: center;
 }
 
-a {color: rgb(187, 0, 255);}
+a {
+    color: rgb(187, 0, 255);
+}
 
-table {border: solid;}
-table th {border: 1px solid; text-align: left; background-color: rgb(221, 127, 255);}
-table td {border: 1px solid}
+table {
+    border: solid;
+}
 
-#image-database > a {background-color: rgb(249, 234, 246);}
+table th {
+    border: 1px solid; 
+    text-align: left; 
+    background-color: rgb(221, 127, 255);
+}
+
+table td {
+    border: 1px solid
+}
+
+#image-database > a {
+    background-color: rgb(249, 234, 246);
+}
